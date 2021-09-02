@@ -1,6 +1,71 @@
 body{
     background: #282828;
-    color: #d79921;
+    color: #fabd2f;
     font-family: "Roboto Mono", monospace;
 }
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+
+.image-header{
+    padding-left: 12px;
+}
+
+#me{
+    border-radius: 50%;
+}
+
+.body-text{
+    position: absolute;
+    top: 32%;
+    left: 30%;
+    right: 30%;
+}
+
+#workplace{
+    color: #ebdbb2;
+    font-size: 22px;
+    margin: 0;
+}
+
+#date{
+    color: #bdae93;
+    font-size: 20px;
+    
+}
+
+#job-details{
+    font-size: 18px;
+    list-style-type: "> ";
+}
+
+.skills{
+    width: 400px;
+    position: fixed;
+    top: 20%;
+    right: 75%;
+    
+}
+
+.education{
+    width: 400px;
+    position: fixed;
+    top: 20%;
+    left: 75%;
+}
+
+.bottom-watermark{
+    position: absolute;
+    top: 95%;
+    color: #665c54;
+    right: 50%;
+    left: 40%;
+    width: 800px
+}
+
 
