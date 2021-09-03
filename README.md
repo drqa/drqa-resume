@@ -3,4 +3,4 @@
 <h3> Built with HTML/CSS <h3>
 Theme based on morhetz's Gruvbox: https://github.com/morhetz/gruvbox
 <br>
-<a href="default.asp"><img src="resume-image.PNG" alt="resume-image"></a>
+<a href="default.asp"><img src="resume-image.png" alt="resume-image"></a>
